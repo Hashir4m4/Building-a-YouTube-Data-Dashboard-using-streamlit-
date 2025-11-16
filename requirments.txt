@@ -1,0 +1,7 @@
+streamlit>=1.26
+google-api-python-client>=2.80
+python-dotenv>=1.0
+pandas>=2.0
+plotly>=5.0
+requests>=2.28
+Pillow>=9.0
